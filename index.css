@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+}
+header{
+    background-color: rgb(3, 3, 91);
+    color: #ffffff;
+    padding: 16px;
+}
+.puntos{
+    width: 70rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nombre { 
+display: inline-block;
+width: 60%;
+font-weight: bold;
+text-align: left;
+margin-left: 30px
+}
+.profesion{
+display: inline-block;
+width: 30%;
+font-weight: 200;
+text-align: center;
+
+}
+.descripcion{
+    background-color: rgb(249, 111, 111);
+    padding: 16px;
+}
+h3{
+    font-size: 36px;
+    font-weight: 700;
+}
+dt{
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    margin-top: 36px;
+}
+ul{
+    padding: 0;
+}
+li{
+    margin-top: 16px;
+}
